@@ -1,4 +1,4 @@
-# aplicação web para um loja de carros nome da aplicação All Motors
+# aplicação web para um loja de carros nome da aplicação All New Motors
 ### Licença vinculada ao repositório: 
 [![NPM](https://img.shields.io/github/license/LuizFernandoDeveloper/all-motors)](https://github.com/LuizFernandoDeveloper/all-motors/blob/main/LICENSE)
 #
