@@ -25,4 +25,4 @@
 3. Ao preencher os formulários, será mostrado um prompt(alert) com uma mensagem de erro, e embaixo de cada campo do formulário será exibida uma mensagem personalizada sobre o erro de preenchimeneto, utilizado nesse formulário máscaras do Jquery. Caso todos os campos estiverem sido preenchidos de acordo, será exibida uma mensagem de envio.
     ![pagina inicial all motors](/formulários.JPG)    
 
-# [Clique Aqui para ver a aplicação web]([https://all-motors.vercel.app/](https://all-new-motors.vercel.app/?vercelToolbarCode=c2gg0N0nF0Ob8-z)https://all-new-motors.vercel.app/?vercelToolbarCode=c2gg0N0nF0Ob8-z)
+# [Clique Aqui para ver a aplicação web: https://all-new-motors.vercel.app/?vercelToolbarCode=c2gg0N0nF0Ob8-z
