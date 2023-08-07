@@ -24,6 +24,7 @@
     ![pagina inicial all motors](/animação-click-no-carro2.png)
 
 3. Ao preencher o formulário, será mostrado um prompt(alert) com uma mensagem de erro, e embaixo de cada campo do formulário será exibida uma mensagem personalizada sobre o erro de preenchimeneto, utilizado nesse formulário máscaras do Jquery. Caso todos os campos estiverem sido preenchidos de acordo, será exibida uma mensagem de envio.
-    ![pagina inicial all motors](/formulários.JPG)    
-
-# [Clique Aqui para ver a aplicação web: https://all-new-motors-3h6z.vercel.app/?vercelToolbarCode=zFBb_SHNIlDcU_A
+    ![pagina inicial all motors](/formulários.JPG)
+   
+ <h2>Visualização Online</h2>
+  <p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://all-new-motors-3h6z.vercel.app/?vercelToolbarCode=zFBb_SHNIlDcU_A
